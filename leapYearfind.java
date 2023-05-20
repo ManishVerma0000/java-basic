@@ -10,7 +10,7 @@ public class leapYearfind {
                     System.out.println("not the leap year");
                 }
             } else {
-                System.out.println("this is the leap y");
+                System.out.println("this is the leap year");
             }
 
         } else {
